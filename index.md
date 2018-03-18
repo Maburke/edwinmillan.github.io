@@ -3,5 +3,5 @@
 Hello and welcome to my page.
 
 Testing Links:
-- [Index](/)
-- [About](/about)
+- [Index](index.md)
+- [About](about.md)
